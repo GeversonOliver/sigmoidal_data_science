@@ -5,11 +5,11 @@
 </p>
 
 # Geverson Oliver
-<sub>*Data Scientist</sub>
+<sub>Data Scientist</sub>
 
-Um curioso sobre ciência de dados. Neste contexto, formando em Ciências da Computação pela Universidade Estadual da Bahia (UNEB). Assim, buscando sempre respostas para problemas do cotidiano a partir da ciência de dados. Por fim, espero que meus resultados sejam úteis a todos. Um forte abraço e Deus o abençoe.
+Um curioso sobre ciência de dados. Neste contexto, formado em Ciências da Computação pela Universidade Estadual da Bahia (UNEB). Assim, buscando sempre respostas para problemas do cotidiano a partir da ciência de dados. Por fim, espero que meus resultados sejam úteis a todos. Um forte abraço e Deus o abençoe.
 
-**Background in:** Python e Machine Learning.
+**Background in:** iniciante em: Python, Machine Learning, CSS, HTML e JavaScript (JS).
 
 **Links:**
 * [Blog](https://oliverept.wixsite.com/amostral)
